@@ -6,3 +6,4 @@ db.sqlite3
 /static
 .DS_Store
 
+pa_autoconfigure_django.py https://github.com/isaevivann/my-first-blog.git
